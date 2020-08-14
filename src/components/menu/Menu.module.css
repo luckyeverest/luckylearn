@@ -1,0 +1,13 @@
+
+.menu{
+    grid-area: m;
+    background-color: gray;
+    
+    }
+    .item a{
+        color: #070707;
+        text-decoration: none;
+    }
+    .item a.activ{
+        color: cyan;
+    }

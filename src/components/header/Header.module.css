@@ -1,0 +1,20 @@
+
+.header{
+    grid-area: h;
+    background-color: grey;
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+}
+.lll{
+    color: cyan;
+    background-color:gray;
+    font-size: 35px;
+
+
+}
+
+.text{
+    color: cyan ;
+    font-size: 50px;
+    font-style: italic;
+}

@@ -1,0 +1,18 @@
+.myposts{
+    border:5px solid cyan;
+    background-color:gray;
+    border-radius:20px;
+    padding: 10px;
+}
+.textarea{
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form{
+    display: grid;
+}
+.buttom{
+    height: 200px;
+    width: 50px;
+}

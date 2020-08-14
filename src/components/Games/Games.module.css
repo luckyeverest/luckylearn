@@ -1,0 +1,19 @@
+
+.tictactoe{
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+    border: 2px solid cyan;
+    margin: 50px auto;
+}
+
+.tttgrid{
+    text-align: center;
+    font-size: 60px;
+    color: cyan;
+    width: 100px;
+    height: 100px;
+    border: 1px solid cyan;
+    float:left;
+    box-sizing:border-box;
+}

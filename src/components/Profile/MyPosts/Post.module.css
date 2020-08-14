@@ -1,0 +1,13 @@
+.post{
+    color: indigo;
+    
+}
+.foto{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    border: 3px solid blue;
+}
+.like{
+    color:orange;
+}
